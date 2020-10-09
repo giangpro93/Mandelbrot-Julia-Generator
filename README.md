@@ -1,5 +1,6 @@
 # Mandelbrot-Julia-Generator
 A simple program using OpenCL to generate images of Mandelbrot and Julia sets in Linux or macOS using ImageWriter library
+<img max-width="500px" height="auto" src="./app/imageFileOut.png">
 
 # Instruction
 - Update makefile in app folder according to the system (Linux or macOS)
