@@ -12,18 +12,18 @@ A simple program using OpenCL to generate images of Mandelbrot and Julia sets in
   - Sixth line: Julia point
   - Seventh line: First color in RGB
   - Eighth line: Second color in RGB
-  - Ninth line: Third color in RGB
-  Example:
-  2000 2000
-  200
-  4
-  -0.5 0.5
-  -0.5 0.5
-  -0.4 0.6
-  1 1 0.7
-  0 0 0.3
-  1 0.7 0
-- Make and run
+  - Ninth line: Third color in RGB   
+  Example:  
+  2000 2000  
+  200  
+  4  
+  -0.5 0.5  
+  -0.5 0.5  
+  -0.4 0.6  
+  1 1 0.7 
+  0 0 0.3 
+  1 0.7 0  
+- Make and run  
   Example: 
     - For Mandelbrot: MandelbrotJuliaGenerator M params.txt imageOut.png
     - For Julia:      MandelbrotJuliaGenerator J params.txt imageOut.png
